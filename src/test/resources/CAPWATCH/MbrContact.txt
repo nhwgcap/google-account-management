@@ -1,0 +1,9 @@
+CAPID,Type,Priority,Contact,UsrID,DateMod,DoNotContact,ContactName
+111111,"CELL PHONE","EMERGENCY","6034567700","davisjs12","01/13/2017",False,"Contact Name"
+111111,"CELL PHONE","PRIMARY","6034561200","keenr","11/15/2016",False,""
+111111,"EMAIL","PRIMARY","primary@senior.com","keenr","11/15/2016",False,""
+111111,"EMAIL","SECONDARY","secondary@senior.com","keenr","11/15/2016",False,""
+111111,"HOME PHONE          ","EMERGENCY","6031237700","keenr","10/06/2014",False,"Contact Name"
+111111,"WORK PHONE          ","PRIMARY","6031231200","keenr","01/14/2015",False,""
+222222,"EMAIL","PRIMARY","primary@cadet.com","keenr","11/15/2016",False,""
+222222,"EMAIL","CADET PARENT EMAIL","parent@cadet.com","keenr","11/15/2016",False,""
