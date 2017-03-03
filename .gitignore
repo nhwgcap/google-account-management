@@ -17,3 +17,7 @@ gradle-wrapper.properties
 /.gradle/
 /build/
 /bin/
+.classpath
+.project
+.settings
+nbproject
